@@ -15468,6 +15468,11 @@ site.transip.me
 // Submitted by TuxFamily administrators <adm@staff.tuxfamily.org>
 tuxfamily.org
 
+// Thedev.ovh : https://thedev.ovh
+// Submitted by Thedev.ovh Team <admin@thedev.ovh>
+thedev.ovh
+*.thedev.ovh
+
 // TwoDNS : https://www.twodns.de/
 // Submitted by TwoDNS-Support <support@two-dns.de>
 dd-dns.de
